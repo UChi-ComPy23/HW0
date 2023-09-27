@@ -65,9 +65,8 @@ Write a script in `survey.py` which outputs answers to the following questions.
 3. What are your academic interests? (research/coursework)
 4. What programming languages do you have experience with?
 5. What is your experience with Python?  (is is ok to have no experience)
-6. What time zone are you in? (Chicago is UTC -5)
-7. What is something you would like to learn in this course?
-8. Do you have any questions or concerns you would like to share?
+6. What is something you would like to learn in this course?
+7. Do you have any questions or concerns you would like to share?
 
 
 Feel free to make this a reverse [code golf](https://en.wikipedia.org/wiki/Code_golf), e.g. make functions/variables to "help" you print your answers in an unnecessarily complicated way.  There are no rules, and points are based on completion (you can get some bonus style points for creativity in your code).  However, your output should look like the following when run from a terminal

@@ -165,7 +165,9 @@ There is starter code at the end of [`fibonacci.py`](fibonacci.py) which will do
 * There should be three lines.
 * Your plot should have a legend.
 * Your plot should have labels for its x and y axes.
-* Your plot should have a title
+* Your plot should have a title.
+* Your axis ticks, axis labels, legend, and title should have font size at least 16.
+* Your linewidths should be at least 2.
 * save your plot as `fibonacci_runtime.png`
 
 embed the image in `answers.md` and give a short interpretation of what you see.

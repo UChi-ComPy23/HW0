@@ -153,7 +153,7 @@ Print the first 30 Fibonacci numbers using this function.  Compare to your answe
 
 What is the asymptotic number of operations done in this algorithm?  Addition and multiplication both count as single operations (there are circuits on a CPU to do either in one clock cycle). How does this compare to the algorithms in problem 2?
 
-What are potential issues you might run into with large values of `n` in this algorithm?  (You don't need to address them in code.)  Do you think it would be better to use `np.float64` or `np.int64` in your arrays for large values of `n`?  You can specify the data type of an array using the keyword `dtype`, for example `x = np.array([1,2,3], dtype=np.float64)`.
+What are potential issues you might run into with large values of `n` in this algorithm?  (You don't need to address them in code.)  Is it better to use `np.float64` or `np.int64` in your arrays for large values of `n`? Why? You can specify the data type of an array using the keyword `dtype`, for example `x = np.array([1,2,3], dtype=np.float64)`.
 
 ## Problem 4 - PyPlot Basics (15 points)
 
